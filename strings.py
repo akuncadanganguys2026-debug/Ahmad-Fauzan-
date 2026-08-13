@@ -35,5 +35,3 @@ print(f"Panjang nama : {len(nama)} karakter")
 print("=" * 45)
 print("      Terima kasih sudah mencoba!")
 print("=" * 45)
-
-jadi gmn kalo d jalanin di python
